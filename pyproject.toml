@@ -3,7 +3,7 @@
 
 [project]
 name = "obsidian-callouts"
-version = "1.0.0"
+version = "1.0.1"
 description = "A Python-Markdown plugin for Obsidian-style callouts."
 authors = [{ name = "GooRoo", email = "sergey.olendarenko@gmail.com" }]
 license = "BSD-3-Clause"

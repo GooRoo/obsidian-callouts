@@ -83,6 +83,8 @@ class ObsidianCalloutProcessor(BlockProcessor):
                 return 'failure', p.capitalize()
             case 'error':
                 return 'danger', 'Error'
+            case 'cite':
+                return 'quote', 'Cite'
             case _:
                 return ct, ct.capitalize()
 
